@@ -2,5 +2,5 @@
     "board": "arduino:avr:uno",
     "programmer": "avrisp",
     "port": "COM3",
-    "sketch": "LED-HelloWorld\\arduino.ino"
+    "sketch": "LED-HelloWorld\\Lampu_arduino.ino"
 }
